@@ -4,7 +4,7 @@
 # print("hit 1 for software installation request")
 # print("hit 2 for software installation request")
 # print("hit 3 for software update request")
-# print("hit 4 for software uninstall request")
+# print("hit 4 for soft ware uninstall request")
 # print("hit 5 for other requests")
 #
 # # accepting the user input
